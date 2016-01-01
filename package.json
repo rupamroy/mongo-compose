@@ -1,0 +1,11 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "Test Node with mongo container",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rupam Roy",
+  "license": "MIT"
+}
