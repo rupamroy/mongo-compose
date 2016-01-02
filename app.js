@@ -1,5 +1,6 @@
-var data = require("./data");
+var data = require("./data").getData();
 
-data.data.forEach(function(e){
+
+data.forEach(function(e){
    console.log(e.name);
 });
