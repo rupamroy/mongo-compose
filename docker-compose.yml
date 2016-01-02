@@ -1,0 +1,7 @@
+node-mongo:
+  build: .
+  command: node app.js
+  links:
+   - mongo
+mongo:
+  image: mongo
